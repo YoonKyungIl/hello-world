@@ -1,0 +1,6 @@
+<php 함수>
+
+var_dump($var1, $var2, ...); 변수의 정보를 출력하는 함수
+ex) $a = 1; var_dump($a);      // int(1)
+
+var_dump ( mixed $expression [, mixed $... ] ) : void
